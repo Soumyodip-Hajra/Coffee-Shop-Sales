@@ -1,6 +1,6 @@
 # Coffee-Shop-Sales
 # Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.
-# Recommended Analysis
+# Analysis
 How have Maven Roasters sales trended over time?
 
 Which days of the week tend to be busiest, and why do you think that's the case?
